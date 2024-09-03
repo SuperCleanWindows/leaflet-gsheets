@@ -4,7 +4,7 @@
  * Script to display two tables from Google Sheets as point and geometry layers using Leaflet
  * The Sheets are then imported using PapaParse and overwrite the initially laded layers
  */
-
+https://docs.google.com/spreadsheets/d/1wiUETcWQzoFlxhIWNYTgsn9FFcy3zLNnEK6zcIbkFAg/pub?output=csv https://docs.google.com/spreadsheets/d/1XyA9X-xeg4nEVSGBu9vGYuSaNSNDwH1ceduxY4mN_mc/pub?output=csv
 // PASTE YOUR URLs HERE
 // these URLs come from Google Sheets 'shareable link' form
 // the first is the geometry layer and the second the points
